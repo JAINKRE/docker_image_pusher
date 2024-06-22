@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2024-06-13T22-53-53Z
+gitlab/gitlab-ce:17.1.0-ce.0
